@@ -1,0 +1,10 @@
+.se-btn{
+
+    background-color: lightgreen;
+    color: white;
+    font-weight: bold;
+    width: 8%;
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid lightgreen;
+    }
