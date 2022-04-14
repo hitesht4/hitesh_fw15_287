@@ -1,0 +1,30 @@
+.header{
+    background-color: black;
+    color: white;
+}
+
+button{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 15px;
+    margin: 10px;
+    font-size: 15px;
+    border-radius: 15px;
+    border: 5px solid white;
+}
+
+.even{
+    color:green;
+    font-size: 80px;
+   background-color: white;
+   border-radius: 100%;
+}
+.odd{
+   
+    color: red;
+    font-size: 80px;
+    background-color: black;
+    border-radius: 100%;
+
+}
