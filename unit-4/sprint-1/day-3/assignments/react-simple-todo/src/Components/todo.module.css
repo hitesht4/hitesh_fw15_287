@@ -1,0 +1,24 @@
+.loginbtn{
+    background-color: blue;
+    font-weight: bolder;
+    border: 1px solid 
+     white;
+     padding: 5px;
+     border-radius: 10px;
+}
+.inputTag{
+    background-color: white;
+    padding: 10px;
+    width: 200px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.addbtn{
+    background-color: blue;
+    font-weight: bolder;
+    border: 1px solid 
+     white;
+     padding: 12px;
+     border-radius: 10px;
+     margin-left: 25px;
+}
