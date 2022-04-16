@@ -1,0 +1,35 @@
+.BGcolor{
+    background-color: rgb(255,165,0);
+    width: 600px;
+    margin: auto;
+    height: 350px;
+    margin-top: 50px;
+    display: flex;
+}
+.left_content{
+    width: 40%;
+   text-align: left;
+   margin: 25px;
+}
+.right_content{
+    width: 40%;
+   text-align: right;
+   margin: 25px;
+}
+.btn{
+    padding: 13px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+.logo{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.logo_arrow{
+    margin-top: 60%;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
